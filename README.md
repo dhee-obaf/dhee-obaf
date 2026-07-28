@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Peace
 
-# Well, Peace Oluwadamilola Obafemi 
+## Well, It's Peace Oluwadamilola Obafemi.
 
 ##  A Frontend Developer
 💬 I’m passionate about creating good and creative designs to make responsive solutions providing a functional, durable and friendly user experience that meets the needs of the users.<br>🧠 I’m currently learning React Native<br>🌍 I’m based in Nigeria<br>
